@@ -57,3 +57,12 @@ box-shadow: 0px 0px 2px grey;
     text-decoration: line-through;
     background-color: lightblue !important;
 }
+
+@media all and (width <= 720px)
+{
+
+    #main{
+        width: 480px;
+        margin: 25px;
+    }
+}
