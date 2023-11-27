@@ -73,5 +73,5 @@ function removeTask()
     }
     localStorage.setItem("list",JSON.stringify(arr_list));
 }
-removeTask()
+
 
